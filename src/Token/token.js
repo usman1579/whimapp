@@ -1,0 +1,17 @@
+export const Primary_Dark = "#203152";
+export const secondary = "#8792A8";
+export const accent = "#E76A33";
+export const White = "#FFFFFF";
+export const ShipCove = "#8492AA";
+export const Bunting = "#243150";
+export const Nobel = "#979797";
+export const GhostWhite = "#F7F7FA";
+export const Crusta = "#F58959";
+export const Black = "#000000";
+export const Sorbus = "#E76A33";
+export const Solitude = "#EEF1F7";
+export const HawkesBlue = "#DADEE3";
+export const Error = "#EB5757";
+export const Bottomline = "#EDF1F8";
+export const Border = "#D9DEE4";
+export const Shadow = "rgba(102, 0, 17, 0.2)";
